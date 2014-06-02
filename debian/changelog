@@ -1,3 +1,9 @@
+vyatta-dhcp3 (4.1.8+osvx1+projectx1) unstable; urgency=medium
+
+  * Switch to OS/VX
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Mon, 02 Jun 2014 12:11:54 +0400
+
 vyatta-dhcp3 (4.1.8+vyos1+helium1) unstable; urgency=low
 
   * New branch
